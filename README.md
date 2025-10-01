@@ -14,19 +14,19 @@ R² Score
 
 Visualizations were also created to better understand feature relationships, distributions, and model results.
 
-## Sales_by_Outlet_Type
+##Sales_by_Outlet_Type
 ![Sales_by_Outlet_Type](Sales_by_Outlet_Type.png)
 
-## Sales_by_Outlet_Distribution
+##Sales_by_Outlet_Distribution
 ![Sales_by_Outlet_Distribution](Sales_by_Outlet_Distribution.png)
 
-## Avg_outlet_sales
+##Avg_outlet_sales
 ![Avg_outlet_sales](Avg_outlet_sales.png)
 
-## Item_Mrp_spread
+##Item_Mrp_spread
 ![Item_Mrp_spread](Item_Mrp_spread.png)
 
-## Outlet_by_Establishment_Year
+##Outlet_by_Establishment_Year
 ![Outlet_by_Establishment_Year](Outlet_by_Establishment_Year.png)
 
 
