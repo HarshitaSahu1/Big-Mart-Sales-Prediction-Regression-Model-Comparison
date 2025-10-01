@@ -14,6 +14,21 @@ R² Score
 
 Visualizations were also created to better understand feature relationships, distributions, and model results.
 
+## Sales_by_Outlet_Type
+![Sales_by_Outlet_Type](Sales_by_Outlet_Type.png)
+
+## Sales_by_Outlet_Distribution
+![Sales_by_Outlet_Distribution](Sales_by_Outlet_Distribution.png)
+
+## Avg_outlet_sales
+![Avg_outlet_sales](Avg_outlet_sales.png)
+
+## Item_Mrp_spread
+![Item_Mrp_spread](Item_Mrp_spread.png)
+
+## Outlet_by_Establishment_Year
+![Outlet_by_Establishment_Year](Outlet_by_Establishment_Year.png)
+
 
 Key Features
 
@@ -26,3 +41,9 @@ Model Building: Applied 7 regression models including Linear Regression, Ridge, 
 Model Evaluation: Compared models based on MSE and R² score using bar graphs and charts.
 
 Visualization: Clear plots to explain data patterns and prediction results.
+
+## Mean_squared_Across_Model
+![Mean_squared_Across_Model](Mean_squared_Across_Models.png)
+
+## R2_Score_Models
+![R2_Score_Models](R2_Score_Models.png)
